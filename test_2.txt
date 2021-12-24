@@ -1,0 +1,11 @@
+{"patentForInvention": "#1",
+ "patentNumber": "#2",
+ "inventionTitle": "#3",
+ "dateOfRequest": "#4",
+ "requestNumber": "#5",
+ "priorityDate": "#6",
+ "patentHolder": "#7",
+ "authorsOfInvention": "#8",
+ "maintenanceCondtion": "#9",
+ "agencyForIntellectualProperty": "#10",
+ "dateOfTaxPayment": "#11"}

@@ -1,0 +1,9 @@
+{"firstName": "#1",
+ "midName": "#2",
+ "lastName": "#3",
+ "martialStatus": #4,
+ "age": #5,
+ "birth_date": #6,
+ "address": {"state": "#7", "city": "#8", "living_place": "#9" }, 
+ "phoneNumbers": [{"type": "home", "number": "#10"},{"type": "mobile", "number": "#11"}], 
+ "nation": "#12"}
